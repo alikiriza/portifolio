@@ -10,7 +10,7 @@ const fadeUp = {
 }
 
 const statCards = [
-  { number: '2+', label: 'Years Experience' },
+  { number: '3', label: 'Years Experience' },
   { number: '3', label: 'Projects Shipped' },
   { number: 'AI', label: 'AI-Powered Workflow' },
   { number: 'KLA', label: 'Based in Kampala' },
