@@ -1,0 +1,15 @@
+# Manual setup
+node_modules
+.next
+*.tsbuildinfo
+next-env.d.ts
+
+# Environment
+.env.local
+.env.production
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
